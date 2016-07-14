@@ -1,0 +1,30 @@
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\Magazine Creator.exe.config
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\Magazine Creator.exe
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\Magazine Creator.pdb
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine Creator.csprojResolveAssemblyReference.cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.frmPeliculas.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.frmPrincipal.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.Properties.Resources.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine Creator.csproj.GenerateResource.Cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine Creator.exe
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine Creator.pdb
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\PT\System.Data.SqlServerCe.Entity.resources.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.frmCartelas2.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.frmReportCartela.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\RdlCompile.cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\RdlCompile.compiled
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\ImpressaoDataSet.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\ImpressaoDataSet.Designer.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\MagazineDataSet.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\MagazineDataSet.Designer.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\ImpressaoDataSet.xsc
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\ImpressaoDataSet.xsd
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\ImpressaoDataSet.xss
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\MagazineDataSet.xsc
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\MagazineDataSet.xsd
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Debug\MagazineDataSet.xss
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Debug\Magazine_Creator.frmAreaImpressao.resources

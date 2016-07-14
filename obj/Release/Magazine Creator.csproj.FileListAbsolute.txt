@@ -1,0 +1,56 @@
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.exe.config
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.Designer.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.Designer.cs
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xsc
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xsd
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xss
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xsc
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xsd
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xss
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.exe
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.pdb
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\System.Data.SqlServerCe.Entity.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\PT\System.Data.SqlServerCe.Entity.resources.dll
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.csprojResolveAssemblyReference.cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmAreaImpressao.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmReportCartela.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmCartelas2.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmPeliculas.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmPrincipal.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.Properties.Resources.resources
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.csproj.GenerateResource.Cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\RdlCompile.cache
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\RdlCompile.compiled
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.exe
+C:\Users\wscheidegger\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.pdb
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.exe.config
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.exe
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.pdb
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.csprojResolveAssemblyReference.cache
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmAreaImpressao.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmReportCartela.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmCartelas2.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmPeliculas.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.frmPrincipal.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine_Creator.Properties.Resources.resources
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\Magazine Creator.csproj.GenerateResource.Cache
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.cs
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.Designer.cs
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.cs
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.Designer.cs
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xsc
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xsd
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\ImpressaoDataSet.xss
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xsc
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xsd
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\MagazineDataSet.xss
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.exe
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Magazine Creator.pdb
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\RdlCompile.cache
+C:\Users\Magazine\OneDrive\Magazine das Unhas\Magazine Creator\Magazine Creator\Magazine Creator\obj\Release\RdlCompile.compiled
